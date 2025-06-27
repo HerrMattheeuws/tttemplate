@@ -7,6 +7,14 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## Blah
+## How it works
 
-My Elvish name is Andaer
+My
+
+## How to test
+
+name
+
+## External hardware
+
+Andaer
